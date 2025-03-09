@@ -6,6 +6,8 @@
 
 _See the **release section**._
 
+No installation is needed since this is a portable exe file.
+
 ## Description
 
 While gaming i don't like the light coming from other monitors other than the one i am using, so i made this simple program to make them completely black.<br/>
