@@ -17,7 +17,7 @@ Being the overlays borderless windows, you can drag other windows over it.<br/>
 
 ## Config
 
-The config is specified in a `config.json` file placed in the same path as the program's executable.
+The config is specified in a `config.json` file that must be placed in the same path as the program's executable.
 
 Example config to darken monitor `0` and `2`:
 ```json
