@@ -6,7 +6,7 @@
 
 _See the **release section**._
 
-No installation is needed since this is a portable exe file.
+No installation apart creating the `config.json` file is needed since this is a portable exe file.
 
 ## Description
 
