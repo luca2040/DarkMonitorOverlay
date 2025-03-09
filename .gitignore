@@ -1,2 +1,5 @@
 /build
 /env
+/.venv
+main.spec
+/dist
